@@ -64,6 +64,9 @@ public class Lesson_04 {
         int b = a/8; - b будет равно 8
         int c = b/4; - c будет равно 2
         int d = c*3; - d будет равно 6
+
+         TEST
+
          */
 
 
